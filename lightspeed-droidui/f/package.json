@@ -1,11 +1,11 @@
 {
-  "name": "logical-apples-remaining-wvb9e",
-  "productName": "logical-apples-remaining-wvb9e",
-  "description": "My Electron application description",
+  "name": "BlaBlaBla",
+  "productName": "Bla-Bla-Bla",
+  "description": "DroidX electron webui",
   "keywords": [],
   "main": "./main.js",
   "version": "1.0.0",
-  "author": "User",
+  "author": "DroidX",
   "scripts": {
     "start": "electron ."
   },
