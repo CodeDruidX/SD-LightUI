@@ -1,0 +1,14 @@
+{
+  "name": "logical-apples-remaining-wvb9e",
+  "productName": "logical-apples-remaining-wvb9e",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "User",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
